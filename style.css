@@ -1,6 +1,7 @@
 body{
     color: blue;
     background: black;
+    margin: 0px;
 }
 header {
  border: solid 2px rgb(21, 0, 128);
